@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 import one.digitalinnovation.gof.model.Cliente;
 import one.digitalinnovation.gof.service.ClienteService;
 
-
 @RestController
 @RequestMapping("clientes")
 public class ClienteRestController {
